@@ -15,11 +15,11 @@ As an informal caregiver for my aunt and being acquainted with other caregivers.
 
 ## Tools:
 1. Figma
-   - Developing prototype
+  - Developing prototype
 2. Balsamiq
    - Creating wireframes
 3. Notion
-   - Note-taking throughout duration of 10-weeks
+   - Note-taking throughout 10-weeks
 
 ## Methodology
 - Researched mobile application development
