@@ -7,15 +7,15 @@ As an informal caregiver for my aunt and being acquainted with other caregivers.
 
 ## Three Core Features:
 1. Medication Management
-  - Help organize and monitor medication schedules and dosages
+   - Help organize and monitor medication schedules and dosages
 2. Mental Well-Being Tracker
-  - Record daily moods
+   - Record daily moods
 3. Symptoms Tracker
-  - Log new or ongoing symptoms
+   - Log new or ongoing symptoms
 
 ## Tools:
 1. Figma
-  - Developing prototype
+   - Developing prototype
 2. Balsamiq
    - Creating wireframes
 3. Notion
@@ -29,8 +29,8 @@ As an informal caregiver for my aunt and being acquainted with other caregivers.
 
 ## Results
 1. Interactive Design Features
-  - Developed interactive elements in the prototype to simulate real user experience
+   - Developed interactive elements in the prototype to simulate real user experience
 2. Enhanced User Interface
-  - Integrated user feedback to refine the design, enhancing usability for caregivers of varying tech skills
+   - Integrated user feedback to refine the design, enhancing usability for caregivers of varying tech skills
 3. Prototype Validation
-  - Tested the prototype with target users, receiving positive feedback on the app's potential
+   - Tested the prototype with target users, receiving positive feedback on the app's potential
